@@ -1,0 +1,14 @@
+{
+    "name": "get-package-def",
+    "set": "more-stuff-even",
+    "source": "https://github.com/justinwoo/package-sets.git",
+    "depends": [
+        "prettier",
+        "strings",
+        "simple-json",
+        "node-process",
+        "foreign",
+        "milkis",
+        "prelude"
+    ]
+}
